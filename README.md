@@ -41,7 +41,8 @@ GEMINI_API_KEY=your_api_key_here
 
 python bank.py
 
-## ![Screenshot] <img width="1528" height="809" alt="image" src="https://github.com/user-attachments/assets/b78f4cd1-2f21-413c-b89d-296b37a8ccc1" />
+##  📸 Screenshots
+## <img width="1528" height="809" alt="image" src="https://github.com/user-attachments/assets/b78f4cd1-2f21-413c-b89d-296b37a8ccc1" />
 
 
 ## 🌟 Why this Project?
