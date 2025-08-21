@@ -1,0 +1,8 @@
+{
+  "user_name": "Noor",
+  "account_number": "0011223344",
+  "currency": "PKR",
+  "balance": 1000.0,
+  "withdraw_limit": 50000.0,
+  "deposit_limit": 1000000.0
+}
