@@ -23,8 +23,9 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/bank-agent.git
-   cd bank-agent
+git clone https://github.com/noorthedev/my-Bank-Agent-Mini-Project-.git
+
+   cd my-Bank-Agent-Mini-Project
 
  2. Install dependencies:
 
@@ -39,6 +40,9 @@ GEMINI_API_KEY=your_api_key_here
 4. Run the project:
 
 python bank.py
+
+## ![Screenshot] <img width="1528" height="809" alt="image" src="https://github.com/user-attachments/assets/b78f4cd1-2f21-413c-b89d-296b37a8ccc1" />
+
 
 ## 🌟 Why this Project?
 
@@ -73,5 +77,3 @@ I welcome contributions! Feel free to submit issues or pull requests.
 
 ## ⭐ Star this repository if you find it inspiring!
 Happy coding!
-
-
